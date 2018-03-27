@@ -11,7 +11,7 @@ print("2. You will then guess a 3 digit number.")
 print("3. The computer will then give back clues, the possible clues are:")
 print("     Close: You've guessed a correct number but in the wrong position")
 print("     Match: You've guessed a correct number in the correct position")
-print("     Nope: You haven't guess any of the numbers correctly")
+print("     Nope: You haven't guessed any of the numbers correctly")
 print("4. Based on these clues you will guess again until you break the code with a perfect match!")
 
 import random
